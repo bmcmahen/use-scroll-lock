@@ -34,3 +34,5 @@ function Example() {
   );
 }
 ```
+
+You can also use the `data-scroll-lock-scrollable` attribute on whatever element you want to enable scrolling and omit the second argument.
