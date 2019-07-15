@@ -12,8 +12,8 @@ yarn add use-scroll-lock
 
 `useScrollLock` accepts two optional arguments.
 
-**enabled** - Whether the scroll locking is enabled. By default this is true.
-**container** - An optional container which permits scrollable content even when scrolling is locked.
+- **enabled** - Whether the scroll locking is enabled. By default this is true.
+- **container** - An optional container which permits scrollable content even when scrolling is locked.
 
 ```jsx
 function Example() {
