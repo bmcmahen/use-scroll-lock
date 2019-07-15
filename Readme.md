@@ -1,6 +1,6 @@
 # use-scroll-lock
 
-A simple hook wrapper around [scroll-lock](https://github.com/FL3NKEY/scroll-lock) built for React. From my experience this library is the most reliable when it comes to scroll locking... so I made it into a hook.
+[scroll-lock](https://github.com/FL3NKEY/scroll-lock) is the most reliable scroll-locking library from my experience, and I wanted to use it in hook form. This super simple hook is the result.
 
 ## Install
 
